@@ -1,0 +1,7 @@
+services:
+  landingpage:
+    build: .
+    container_name: xhome-landingpage
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
