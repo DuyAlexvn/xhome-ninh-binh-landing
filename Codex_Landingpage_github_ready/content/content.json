@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page_title": "XHOME Ninh Bình | Thiết kế kiến trúc nội thất & thi công trọn gói",
+    "page_icon": "X"
+  },
+  "brand": "XHOME Ninh Bình",
+  "logo": "static/images/brand/xhome-logo.jpg",
+  "nav": [
+    {"label": "Giải pháp", "target": "giai-phap"},
+    {"label": "Năng lực", "target": "nang-luc"},
+    {"label": "Dự án", "target": "du-an"},
+    {"label": "Quy trình", "target": "quy-trinh"},
+    {"label": "FAQ", "target": "faq"},
+    {"label": "Nhận báo giá", "target": "dang-ky"}
+  ],
+  "top_offer": {
+    "text": "Thiết kế kiến trúc, nội thất và thi công trọn gói cho biệt thự, nhà phố cao cấp, khách sạn và homestay.",
+    "highlight": "Nhận tư vấn sơ bộ."
+  },
+  "mobile_cta": "Nhận báo giá sơ bộ",
+  "hero": {
+    "eyebrow": "XHOME Ninh Bình",
+    "headline": "Giải pháp thiết kế và thi công trọn gói cho biệt thự, nhà ở cao cấp, homestay và khách sạn tại Ninh Bình.",
+    "subtitle": "XHOME Ninh Bình đồng hành từ khảo sát, lên phương án, dự toán chi phí đến thi công hoàn thiện.",
+    "primary_link": "Nhận báo giá sơ bộ",
+    "secondary_link": "Xem quy trình",
+    "video": "https://www.youtube.com/watch?v=1QGc2bIa7i4",
+    "video_caption": "Công trình mới bàn giao được XHOME Thiết kế thi công hoàn thiện."
+  },
+  "features": {
+    "kicker": "Tư duy trọn gói.",
+    "title": "Không chỉ là bản vẽ đẹp. Đó là cách căn nhà vận hành mỗi ngày.",
+    "cards": [
+      {
+        "title": "Công năng được tính trước.",
+        "body": "XHOME lắng nghe nhu cầu sử dụng, diện tích khu đất, quy mô xây dựng và thói quen sinh hoạt để bố trí không gian thuận tiện ngay từ đầu.",
+        "image": "static/images/features/feature-cong-nang.png"
+      },
+      {
+        "title": "Kiến trúc và nội thất đồng bộ.",
+        "body": "Phong cách mặt tiền, vật liệu, ánh sáng và nội thất được phát triển theo cùng một định hướng, giúp căn nhà nhất quán từ ngoài vào trong.",
+        "image": "static/images/features/feature-noi-that.jpg"
+      },
+      {
+        "title": "Chi phí minh bạch hơn.",
+        "body": "Gia chủ được tư vấn về dự toán, kế hoạch thi công và các bước chuẩn bị trước khi ký hợp đồng, giúp giảm rủi ro phát sinh trong quá trình xây dựng.",
+        "image": "static/images/features/feature-chi-phi-social-proof.jpg"
+      }
+    ]
+  },
+  "trust_band": {
+    "title": "Đồng hành từ phương án đến bàn giao chìa khóa trao tay.",
+    "body": "XHOME giúp gia chủ làm rõ từng quyết định trước khi xây: công trình sẽ lên dáng thế nào, công năng vận hành ra sao, phong cách bên ngoài và bên trong có cùng một tinh thần hay không. Dịch vụ thiết kế và thi công trọn gói hỗ trợ thủ tục xin cấp phép xây dựng, thi công hoàn thiện và bàn giao chìa khóa trao tay.",
+    "background_image": "static/images/hero/hero-ninh-binh-homestay.jpg",
+    "stats": [
+      {
+        "value": "06 năm",
+        "label": "Bảo hành và bảo trì sản phẩm lên đến 06 năm."
+      },
+      {
+        "value": "1000+",
+        "label": "Kiến trúc sư và nhà thiết kế trong hệ thống XHOME, cùng văn phòng đại diện tại Singapore."
+      },
+      {
+        "value": "10.000+",
+        "label": "Công trình đã triển khai trên toàn quốc qua hệ thống showroom, chi nhánh từ Bắc vào Nam."
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "Dự án tiêu biểu.",
+    "title": "Một số công trình 3D và thực tế đã triển khai trong hệ thống XHOME.",
+    "items": [
+      {
+        "title": "Biệt thự hiện đại mái Nhật",
+        "type": "Biệt thự hiện đại",
+        "body": "Không gian biệt thự rộng, mặt tiền cân đối, vật liệu hiện đại và hệ ánh sáng tạo điểm nhấn sang trọng.",
+        "image": "static/images/projects/project-biet-thu-mai-nhat.jpg"
+      },
+      {
+        "title": "Ninh Bình Mansion",
+        "type": "Biệt thự tân cổ điển",
+        "body": "Ngôn ngữ kiến trúc bề thế, chi tiết tinh xảo và hình khối nổi bật cho công trình cao cấp.",
+        "image": "static/images/projects/project-ninh-binh-mansion.png"
+      },
+      {
+        "title": "Mr Hieu Villa",
+        "type": "Villa hiện đại",
+        "body": "Tổ hợp hình khối mạnh, ánh sáng ấm và mảng xanh giúp công trình nổi bật vào cả ban ngày lẫn buổi tối.",
+        "image": "static/images/projects/project-mr-hieu-villa.jpg"
+      },
+      {
+        "title": "Công trình đang thi công tại Ninh Bình",
+        "type": "Công trình biệt thự tân cổ điển",
+        "body": "Công trình do XHOME Ninh Bình thiết kế đang được triển khai thi công thực tế. Từ bản vẽ đến hiện trường, mỗi chi tiết đều cần được kiểm soát rõ ràng để thiết kế không chỉ đẹp trên phối cảnh, mà còn có thể xây dựng đúng trong thực tế.",
+        "image": "static/images/projects/project-thi-cong-nha-chi-hue-ninh-binh.jpg"
+      },
+      {
+        "title": "Thanh Quỳnh",
+        "type": "Nhà ở cao cấp",
+        "body": "Thiết kế mặt tiền hiện đại, tối ưu mảng xanh và ánh sáng để công trình có chiều sâu thị giác.",
+        "image": "static/images/projects/project-thanh-quynh.jpg"
+      },
+      {
+        "title": "Thu House",
+        "type": "Nội thất nhà phố hiện đại",
+        "body": "Nội thất thực tế sau hoàn thiện, thể hiện rõ sự đồng bộ giữa thiết kế, vật liệu và công năng sử dụng trong không gian phòng khách liên thông bếp.",
+        "image": "static/images/projects/project-thu-house.jpg"
+      },
+      {
+        "title": "Công trình thực tế",
+        "type": "Thiết kế & thi công hoàn thiện",
+        "body": "Ảnh công trình đã triển khai thực tế, thể hiện khả năng kiểm soát cảnh quan, vật liệu và ánh sáng sau khi bàn giao.",
+        "image": "static/images/projects/project-thi-cong-thuc-te.jpg"
+      },
+      {
+        "title": "Discreet Villa",
+        "type": "Nội thất thực tế",
+        "body": "Không gian nội thất đã hoàn thiện với vật liệu gỗ, ánh sáng tự nhiên và sự liên kết rõ giữa phòng khách, bếp và khu sinh hoạt.",
+        "image": "static/images/projects/project-discreet-villa-interior.jpg"
+      },
+      {
+        "title": "Tu Son House",
+        "type": "Villa phố hiện đại",
+        "body": "Mặt tiền hiện đại với hình khối cao tầng, vật liệu sáng và các đường bo mềm giúp công trình nổi bật trong bối cảnh đô thị.",
+        "image": "static/images/projects/project-tu-son-house.jpg"
+      },
+      {
+        "title": "Tam Diep Villa",
+        "type": "Biệt thự hiện đại",
+        "body": "Mặt tiền biệt thự hiện đại với hình khối mạnh, ánh sáng viền và vật liệu tạo chiều sâu thị giác.",
+        "image": "static/images/projects/project-biet-thu-tam-diep.jpg"
+      },
+      {
+        "title": "Tra Co Hotel",
+        "type": "Khách sạn",
+        "body": "Thiết kế khách sạn với mặt đứng hiện đại, hệ ánh sáng nhận diện và bố cục phù hợp công trình kinh doanh lưu trú.",
+        "image": "static/images/projects/project-tra-co-hotel.jpg"
+      },
+      {
+        "title": "XHOME Design Center Ninh Bình",
+        "type": "Showroom & năng lực địa phương",
+        "body": "XHOME Ninh Bình hiện được định vị là một trong những đơn vị dẫn đầu tại địa phương trong lĩnh vực thiết kế kiến trúc và nội thất cho nhà ở cá nhân, biệt thự, villa và các công trình quy mô lớn.",
+        "image": "static/images/projects/xhome-ninh-binh-opening.jpg"
+      }
+    ]
+  },
+  "process": {
+    "kicker": "Quy trình rõ ràng.",
+    "title": "Từng bước trước khi xây đều được làm rõ.",
+    "items": [
+      {
+        "title": "Tiếp nhận nhu cầu",
+        "body": "Trao đổi về loại công trình, quy mô, phong cách mong muốn, ngân sách dự kiến và thời gian triển khai."
+      },
+      {
+        "title": "Khảo sát hiện trạng",
+        "body": "Ghi nhận vị trí, diện tích khu đất, hiện trạng thực tế và các điều kiện ảnh hưởng đến phương án thiết kế."
+      },
+      {
+        "title": "Lên concept kiến trúc & nội thất",
+        "body": "Xây dựng định hướng mặt tiền, công năng, vật liệu, ánh sáng và tinh thần nội thất để tổng thể được đồng bộ."
+      },
+      {
+        "title": "Hoàn thiện hồ sơ thiết kế",
+        "body": "Triển khai hồ sơ chi tiết để gia chủ nắm rõ phương án trước khi bước sang giai đoạn dự toán và thi công."
+      },
+      {
+        "title": "Dự toán & kế hoạch thi công",
+        "body": "Làm rõ hạng mục, chi phí, tiến độ và phương án triển khai để hạn chế phát sinh trong quá trình thực hiện."
+      },
+      {
+        "title": "Thi công, nghiệm thu & bàn giao",
+        "body": "Nếu khách hàng có nhu cầu thi công trọn gói, XHOME triển khai, nghiệm thu và bàn giao công trình hoàn thiện."
+      }
+    ]
+  },
+  "faq": {
+    "kicker": "Câu hỏi thường gặp.",
+    "title": "Một vài điểm gia chủ thường cần làm rõ trước khi bắt đầu.",
+    "items": [
+      {
+        "question": "XHOME Ninh Bình có nhận thiết kế riêng không?",
+        "answer": "Có. XHOME có thể tư vấn và triển khai thiết kế kiến trúc, thiết kế nội thất hoặc thiết kế đồng bộ cả kiến trúc và nội thất tùy theo nhu cầu của gia chủ."
+      },
+      {
+        "question": "XHOME có thi công trọn gói không?",
+        "answer": "Có. Nếu khách hàng có nhu cầu, XHOME triển khai thi công trọn gói từ kế hoạch thi công, vật liệu, tiến độ đến nghiệm thu và bàn giao hoàn thiện."
+      },
+      {
+        "question": "Có hỗ trợ thủ tục xin cấp phép xây dựng không?",
+        "answer": "Có. XHOME hỗ trợ gia chủ chuẩn bị các thủ tục xin cấp phép xây dựng với nhiều loại công trình, tùy theo hiện trạng và yêu cầu địa phương."
+      },
+      {
+        "question": "Bao lâu có thể nhận tư vấn sơ bộ?",
+        "answer": "Sau khi anh/chị để lại đầy đủ thông tin, đội ngũ tư vấn sẽ liên hệ để trao đổi nhu cầu, quy mô công trình và định hướng phương án phù hợp."
+      },
+      {
+        "question": "Công trình sau bàn giao có được bảo hành không?",
+        "answer": "Có. XHOME bảo hành và bảo trì sản phẩm lên đến 06 năm theo hạng mục và phạm vi triển khai thực tế."
+      }
+    ]
+  },
+  "form": {
+    "title": "Nhận tư vấn thiết kế & thi công nhà ở tại Ninh Bình",
+    "body": "Trả lời nhanh trong 1 phút để XHOME nắm được diện tích đất, khu vực xây dựng, quy mô tầng và thời gian dự kiến khởi công.",
+    "helper_text": "Thông tin càng rõ, phương án tư vấn càng sát nhu cầu thực tế, giúp anh/chị hạn chế sai lệch về công năng, chi phí và phương án thi công trước khi bắt đầu xây dựng.",
+    "fields": {
+      "name": "Họ tên của anh/chị",
+      "location": "Công trình dự kiến xây ở khu vực nào tại Ninh Bình (Mới sát nhập)?",
+      "area": "Diện tích xây dựng dự kiến là bao nhiêu mét vuông?",
+      "floors": "Quy mô công trình dự kiến xây mấy tầng?",
+      "service": "Anh/chị đang quan tâm đến hạng mục thiết kế hay thi công trọn gói?",
+      "start_time": "Anh/chị dự kiến khi nào có thể triển khai thiết kế và xây dựng?",
+      "budget": "Ngân sách dự kiến của gia đình khoảng bao nhiêu? Kiến trúc sư sẽ tư vấn mẫu phù hợp với ngân sách của anh/chị.",
+      "phone": "Số điện thoại/Zalo để kiến trúc sư liên hệ, trao đổi và gửi mẫu tham khảo phù hợp với nhu cầu của anh/chị."
+    },
+    "service_options": [
+      "Cần kiến trúc sư tư vấn thêm",
+      "Thiết kế kiến trúc",
+      "Thiết kế nội thất",
+      "Thi công trọn gói",
+      "Thiết kế & thi công trọn gói"
+    ],
+    "start_time_options": [
+      "Trong tháng này",
+      "Trong 1-2 tháng tới",
+      "Trong 3-6 tháng tới",
+      "Đang tìm hiểu thêm"
+    ],
+    "submit_label": "Gửi thông tin cho Kiến trúc sư",
+    "warning": "Anh/chị vui lòng điền đầy đủ tất cả thông tin để kiến trúc sư XHOME có đủ dữ liệu tư vấn sơ bộ.",
+    "phone_warning": "Anh/chị vui lòng kiểm tra lại số điện thoại/Zalo để kiến trúc sư có thể liên hệ.",
+    "success": "XHOME Ninh Bình đã ghi nhận thông tin. Đội ngũ tư vấn sẽ liên hệ lại với anh/chị trong thời gian sớm nhất."
+  },
+  "footer": {
+    "company": "XHOME Ninh Bình",
+    "address": "Số 344 Xuân Thành - Phường Hoa Lư - Tỉnh Ninh Bình",
+    "addresses": [
+      {
+        "label": "Ninh Bình",
+        "value": "Số 344 Xuân Thành - Phường Hoa Lư - Tỉnh Ninh Bình"
+      },
+      {
+        "label": "Nam Định",
+        "value": "Tầng 4 - Tòa nhà số 82 Đại Lộ Đông A - Phường Nam Định - Tỉnh Ninh Bình"
+      }
+    ],
+    "hotline": "0228 860 5555 - 0917 270 466",
+    "email": "xhomeninhbinh@gmail.com",
+    "tax_code": "0601162157-001"
+  }
+}
